@@ -24,8 +24,8 @@
 
 ### Backend
 
-![C](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![C](https://img.shields.io/badge/C-3178C6?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-3178C6?style=for-the-badge&logo=c++)
 ![Java](https://img.shields.io/badge/Java-3178C6?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=python)
 

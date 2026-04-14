@@ -6,6 +6,7 @@
   <a href="https://github.com/luispvreal">
     <img src="https://img.shields.io/badge/GitHub-luispvreal-181717?style=for-the-badge&logo=github" />
   </a>
+  <br/>
   <a href="https://instagram.com/luispvreal">
     <img src="https://img.shields.io/badge/Instagram-@luisp_veral-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>

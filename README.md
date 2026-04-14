@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luis Paulo
 
-## 🌐 Where to find me
+## 🌐 Social mideas
 
 <p align="left">
   <a href="https://github.com/luispvreal">
